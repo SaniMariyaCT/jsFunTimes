@@ -1,4 +1,4 @@
-// const house = require('../lib/house');
+const house = require('../lib/house');
 
 xdescribe('House', function () {
   it('returns a 1x1 house with a 1 passed in', function () {

@@ -6,6 +6,22 @@
   "author": "Emily Platzer",
   "license": "ISC",
   "dependencies": {
-    "jasmine": "^3.1.0"
-  }
+    "jasmine": "^3.1.0",
+    "mocha": "^5.2.0"
+  },
+  "description": "This is a series of exercises gently modified from [exercism.io](http://exercism.io/languages/javascript/exercises). Feel free to suggest new ones!",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaniMariyaCT/jsFunTimes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SaniMariyaCT/jsFunTimes/issues"
+  },
+  "homepage": "https://github.com/SaniMariyaCT/jsFunTimes#readme"
 }
